@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Trails]
+(
+  [Id] INT NOT NULL PRIMARY KEY
+)

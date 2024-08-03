@@ -1,0 +1,8 @@
+*.csproj.user
+*.Development.*
+**/.vs
+**/bin
+**/obj
+**/node_modules
+*.sqlproj.user
+*.dbmdl
